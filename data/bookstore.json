@@ -1,0 +1,379 @@
+{
+  "figure1": [
+    {
+      "tit": "傅雷",
+      "msg": "孤独的赤子",
+      "src": "./data/images/figer2.jpg"
+    },
+    {
+      "tit": "丰子恺",
+      "msg": "一钩新月天如水",
+      "src": "./data/images/figer3.jpg"
+    }
+  ],
+  "figure2": [
+    {
+      "tit": "黑塞",
+      "msg": "德国浪漫派骑士",
+      "src": "./data/images/figer4.jpg"
+    },
+    {
+      "tit": "荣格",
+      "msg": "分析心理学之父",
+      "src": "./data/images/figer5.jpg"
+    },
+    {
+      "tit": "福克纳",
+      "msg": "喧哗与骚动",
+      "src": "./data/images/figer6.jpg"
+    },
+    {
+      "tit": "海因莱因",
+      "msg": "美国现代科幻小说之父",
+      "src": "./data/images/figer7.jpg"
+    },
+    {
+      "tit": "钱穆",
+      "msg": "史学四大家",
+      "src": "./data/images/figer8.jpg"
+    },
+    {
+      "tit": "古龙",
+      "msg": "谁来与我共醉",
+      "src": "./data/images/figer9.jpg"
+    },
+    {
+      "tit": "王小波",
+      "msg": "浪漫骑士，黑色幽默",
+      "src": "./data/images/figer10.jpg"
+    },
+    {
+      "tit": "卡夫卡",
+      "msg": "现代人的困境",
+      "src": "./data/images/figer11.jpg"
+    },
+    {
+      "tit": "纳博科夫",
+      "msg": "不止洛丽塔",
+      "src": "./data/images/figer12.jpg"
+    },
+    {
+      "tit": "莎士比亚",
+      "msg": "生存还是毁灭",
+      "src": "./data/images/figer13.jpg"
+    },
+    {
+      "tit": "汪曾祺",
+      "msg": "抒情人道主义者",
+      "src": "./data/images/figer14.jpg"
+    },
+    {
+      "tit": "芥川龙之介",
+      "msg": "大正鬼才文豪",
+      "src": "./data/images/figer22.jpg"
+    },
+    {
+      "tit": "冯至",
+      "msg": "生命在沉思",
+      "src": "./data/images/figer16.jpg"
+    },{
+      "tit": "穆旦",
+      "msg": "用言语照明世界",
+      "src": "./data/images/figer17.jpg"
+    },
+    {
+      "tit": "伍尔夫",
+      "msg": "女性主义先锋",
+      "src": "./data/images/figer18.jpg"
+    },
+    {
+      "tit": "伍尔夫",
+      "msg": "女性主义先锋",
+      "src": "./data/images/figer19.jpg"
+    },{
+      "tit": "顾随",
+      "msg": "古典诗词感发",
+      "src": "./data/images/figer20.jpg"
+    },
+    {
+      "tit": "康德",
+      "msg": "古典哲学创始人",
+      "src": "./data/images/figer21.jpg"
+    }
+  ],
+  "oldbook_chase": [
+      {
+          "src": "./data/images/oldb1.jpg",
+          "msg": "史记（精装本全六册）",
+          "price": "2850"
+      },
+      {
+          "src": "./data/images/oldb2.jpg",
+          "msg": "北京古籍丛书：日下旧闻考（精装全四册）",
+          "price": "500"
+      },
+      {
+          "src": "./data/images/oldb3.jpg",
+          "msg": "日知录集释(外七种）",
+          "price": "495"
+      },
+      {
+          "src": "./data/images/oldb5.jpg",
+          "msg": "金瓶梅词话 （线装两函全21册1988年第二版）",
+          "price": "6200"
+      },
+      {
+          "src": "./data/images/oldb6.jpg",
+          "msg": "结水浒全传5册全    古本小说集成",
+          "price": "600"
+      },
+      {
+          "src": "./data/images/oldb7.jpg",
+          "msg": "颖川家宝印集  颙园藏石印谱  林近题名  洪肇平作序  冒广生署签  陈融后跋  （孔网孤本）",
+          "price": "500"
+      }
+  ],
+  "oldbook_chase1": [
+    {
+        "src": "./data/images/art_1.jpg",
+        "msg": "史记（精装本全六册）",
+        "price": "2850"
+    },
+    {
+        "src": "./data/images/art_2.jpg",
+        "msg": "北京古籍丛书：日下旧闻考（精装全四册）",
+        "price": "500"
+    },
+    {
+        "src": "./data/images/art_3.jpg",
+        "msg": "日知录集释(外七种）",
+        "price": "495"
+    },
+    {
+        "src": "./data/images/art_4.jpg",
+        "msg": "金瓶梅词话 （线装两函全21册1988年第二版）",
+        "price": "6200"
+    },
+    {
+        "src": "./data/images/art_5.jpg",
+        "msg": "结水浒全传5册全    古本小说集成",
+        "price": "600"
+    },
+    {
+        "src": "./data/images/art_6.jpg",
+        "msg": "颖川家宝印集  颙园藏石印谱  林近题名  洪肇平作序  冒广生署签  陈融后跋  （孔网孤本）",
+        "price": "500"
+    }
+  ],
+  "book": [
+    {
+        "src": "./data/images/art_1.jpg",
+        "msg": "史记（精装本全六册）",
+        "price": "2850"
+    },
+    {
+        "src": "./data/images/art_2.jpg",
+        "msg": "北京古籍丛书：日下旧闻考（精装全四册）",
+        "price": "500"
+    },
+    {
+        "src": "./data/images/art_3.jpg",
+        "msg": "日知录集释(外七种）",
+        "price": "495"
+    }
+  ],
+  "book1": [
+    {
+        "src": "./data/images/book1.jpg",
+        "msg": "史记（精装本全六册）",
+        "price": "2850"
+    },
+    {
+        "src": "./data/images/art_7.jpg",
+        "msg": "北京古籍丛书：日下旧闻考（精装全四册）",
+        "price": "500"
+    },
+    {
+        "src": "./data/images/art_6.jpg",
+        "msg": "日知录集释(外七种）",
+        "price": "495"
+    }
+  ],
+  "book2": [
+    {
+        "src": "./data/images/newbook1.jpg",
+        "msg": "史记（精装本全六册）",
+        "price": "2850"
+    },
+    {
+        "src": "./data/images/newbook2.jpg",
+        "msg": "北京古籍丛书：日下旧闻考（精装全四册）",
+        "price": "500"
+    },
+    {
+        "src": "./data/images/newbook3.jpg",
+        "msg": "日知录集释(外七种）",
+        "price": "495"
+    }
+  ],
+  "book3": [
+    {
+        "src": "./data/images/goodbook1.jpg",
+        "msg": "史记（精装本全六册）",
+        "price": "2850"
+    },
+    {
+        "src": "./data/images/goodbook2.jpg",
+        "msg": "北京古籍丛书：日下旧闻考（精装全四册）",
+        "price": "500"
+    },
+    {
+        "src": "./data/images/goodbook3.jpg",
+        "msg": "日知录集释(外七种）",
+        "price": "495"
+    }
+  ],
+  "foryou": [
+      {
+          "src": "./data/images/foryou1.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou2.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou3.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou4.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou5.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou6.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou7.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou8.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou9.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou10.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      }
+      ,{
+          "src": "./data/images/foryou11.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou12.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou13.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou14.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou15.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou17.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou18.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou19.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou20.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      },
+      {
+          "src": "./data/images/foryou22.jpg",
+          "msg": "胆小鬼侦探（长篇小说）",
+          "phase": "九五品",
+          "address": "北京",
+          "price": "11.7"
+      }
+  ]
+
+}

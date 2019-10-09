@@ -1,0 +1,36 @@
+{
+  "img": [
+    {
+      "src": "./data/images/cat_1.jpg"
+    },
+    {
+      "src": "./data/images/cat_2.jpg"
+    },
+    {
+      "src": "./data/images/cat_3.jpg"
+    },
+    {
+      "src": "./data/images/cat_4.jpg"
+    },
+    {
+      "src": "./data/images/cat_5.jpg"
+    }
+  ],
+  "img2": [
+    {
+      "src": "./data/images/catDel1.jpg"
+    },
+    {
+      "src": "./data/images/catDel2.jpg"
+    },
+    {
+      "src": "./data/images/catDel3.jpg"
+    },
+    {
+      "src": "./data/images/catDel4.jpg"
+    },
+    {
+      "src": "./data/images/catDel5.jpg"
+    }
+  ]
+}

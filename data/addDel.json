@@ -1,0 +1,360 @@
+{
+    "special": [
+        {
+            "src": "./data/images/te1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/te3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/te4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        }
+    ],
+    "book": [
+        {
+            "src": "./data/images/addbook1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/addbook2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/addbook3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/addbook4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/te3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/te4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/te3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/te4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        }
+    ],
+    "book1": [
+        {
+            "src": "./data/images/addbook1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/addbook2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/addbook3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/addbook4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/te3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/te4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/te3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/te4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        }
+    ],
+    "book2": [
+        {
+            "src": "./data/images/addbook1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/addbook2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/addbook3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/addbook4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/te3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/te4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te1.png",
+            "tit": " 小说 ",
+            "count": "5104824"
+        },
+        {
+            "src": "./data/images/te2.png",
+            "tit": "  文学  ",
+            "count": " 20657552 "
+        },
+        {
+            "src": "./data/images/te3.png",
+            "tit": "  语言文字  ",
+            "count": " 2178601 "
+        },
+        {
+            "src": "./data/images/te4.png",
+            "tit": "  历史  ",
+            "count": " 6058613 "
+        },
+        {
+            "src": "./data/images/te5.png",
+            "tit": "  地理  ",
+            "count": " 378980 "
+        },
+        {
+            "src": "./data/images/te6.png",
+            "tit": "  艺术  ",
+            "count": " 7436097 "
+        },
+        {
+            "src": "./data/images/te7.png",
+            "tit": "  外文原版  ",
+            "count": "5104824"
+        }
+    ]
+}

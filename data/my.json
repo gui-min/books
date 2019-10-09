@@ -1,0 +1,746 @@
+{
+    "img": [
+        {
+            "src": "./data/images/banner1.jpg"
+        },
+        {
+            "src": "./data/images/banner2.jpg"
+        },
+        {
+            "src": "./data/images/banner3.jpg"
+        },
+        {
+            "src": "./data/images/banner4.jpg"
+        },
+        {
+            "src": "./data/images/banner5.jpg"
+        },
+        {
+            "src": "./data/images/banner6.jpg"
+        },
+        {
+            "src": "./data/images/banner7.jpg"
+        }
+    ],
+    "goodbook": [
+        {
+            "src": "./data/images/goodbook1.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        },
+        {
+            "src": "./data/images/goodbook2.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        },
+        {
+            "src": "./data/images/goodbook3.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        },
+        {
+            "src": "./data/images/goodbook4.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        },
+        {
+            "src": "./data/images/goodbook5.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        },
+        {
+            "src": "./data/images/goodbook6.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        },
+        {
+            "src": "./data/images/goodbook7.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        },
+        {
+            "src": "./data/images/goodbook8.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        },
+        {
+            "src": "./data/images/goodbook9.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        },
+        {
+            "src": "./data/images/goodbook10.jpg",
+            "p1": "鲁迅全集（2017最新修订版）",
+            "p2": "鲁迅 著",
+            "p3i": "￥15"
+        }
+    ],
+    "book":[
+        {
+            "src": "./data/images/book1.jpg",
+            "msg": "实处就法，虚处藏神"
+        },
+        {
+            "src": "./data/images/book2.jpg",
+            "msg": "实处就法，虚处藏神"
+        },
+        {
+            "src": "./data/images/book3.jpg",
+            "msg": "实处就法，虚处藏神"
+        }
+    ],
+    "newbook": [
+        {
+            "src": "./data/images/newbook1.jpg",
+            "price": "480",
+            "tit": "天地盖特藏毛边本《靳以日记书信集》",
+            "article": "钤靳以印章（靳以先生遗物，文物级，首次公开）  章洁思先生签名、盖章（靳以长女、本书整理者）  钤书名印（文物鉴定家、篆刻名家王敦化先生的关门弟子潘方尔刻）  藏书票（版画家杨可扬先生的哲嗣杨以磊创作。靳以印、章洁思印及签名、书名印均在藏书票上呈现，粘贴与扉页）  特制孔网毛边本定制版专属纸盒（按1930年代法藏馆天地盖瓦楞纸盒形制，并作内设改良）",
+            "sign": "限量",
+            "sign1": "签名",
+            "sign2": "钤印",
+            "sign3": "题词",
+            "id": 0
+
+        },
+        {
+            "src": "./data/images/newbook2.jpg",
+            "price": "360",
+            "tit": "天地盖特藏毛边本《靳以日记书信集》",
+            "article": "自孔子至晚清学人，生动复现近60位经学大师广研群经、论辩今古 。 200余张善本古籍书影，序列两千多年儒家经典巨著。",
+            "sign": "签名",
+            "sign1": "钤印",
+            "sign2": "毛边本",
+            "sign3": "函套",
+            "id": 1
+
+        },
+        {
+            "src": "./data/images/newbook3.jpg",
+            "price": "318",
+            "tit": "天地盖特藏毛边本《靳以日记书信集》",
+            "article": "自孔子至晚清学人，生动复现近60位经学大师广研群经、论辩今古 。 200余张善本古籍书影，序列两千多年儒家经典巨著。",
+            "sign": "钤印",
+            "sign1": "函套",
+            "sign2": "赠品",
+            "sign3": "特装",
+            "id": 3
+
+        }
+    ],
+    "oldbook": [
+        {
+            "src": "./data/images/oldbook1.jpg",
+            "price": "318",
+            "tit": "徐渭精品画集",
+            "msg": "徐渭  绘 / 天津人民美术出版社 / 2000-01 / 平装",
+            "article": "徐渭（1521-1593），初字文清，改字文长，号天池山人、青藤道人，山阴（今浙江绍兴）人。他是我国"
+        },
+        {
+            "src": "./data/images/oldbook2.jpg",
+            "price": "41.28",
+            "tit": "谭元春集",
+            "msg": "[明]谭元春、陈杏珍  著 / 上海古籍出版社 / 1998-12 / 精装",
+            "article": "谭元春，字友夏，湖广承天府竟陵县人。生于明万历十四年《公元一五八六年》，卒于明崇祯十年（公元一六二七"
+        },
+        {
+            "src": "./data/images/oldbook3.jpg",
+            "price": "135",
+            "tit": "袁宏道集箋校（全三冊）",
+            "msg": "吴宏道、钱伯城  著 / 上海古籍出版社 / 2008-04 / 精装",
+            "article": "袁宏道，字中郎，公安“三袁”中最声名卓著者。其人性情洒脱，钟情山水，同时又精明强干，为官清廉公正，颇"
+        }
+    ],
+    "newbookPu": [
+        {
+            "src": "./data/images/newbookPu1.jpg",
+            "price": "35",
+            "tit": "晚清官员收藏活动研究）",
+            "msg": "白谦慎  著 / 广西师范大学出版社 / 2019-09 / 精装",
+            "article": "本书是“吴大澂与中国文人文化的现代命运”这一整体研究计划的阶段性成果。作者以吴大澂及其周围的官僚群体"
+        },
+        {
+            "src": "./data/images/newbookPu1.jpg",
+            "price": "35",
+            "tit": "中国纪行",
+            "msg": "[英]阿诺德·汤因比  著；司佳  译 / 上海人民出版社 / 2019-07 / 精装",
+            "article": "本书是汤因比于1929—1930年横穿亚欧大陆的游记。汤因比从伦敦出发，自西向东穿过欧洲、西亚、南亚"
+        },
+        {
+            "src": "./data/images/newbookPu1.jpg",
+            "price": "2340.5",
+            "tit": "人类的足迹",
+            "msg": "[英]阿诺德·汤因比  著；司佳  译 / 上海人民出版社 / 2019-07 / 精装",
+            "article": "大开本卫星图像记录人类生存环境的急速变化人迹所及之处，有动人心魄的美，有满目疮痍的罪◎编辑推荐"
+        }
+    ],
+    "booksales": [
+        {
+            "src": "./data/images/booksales1.jpg",
+            "price": "33",
+            "tit": "《年方六千：文物的故事》",
+            "msg": "郑岩  著 / 中信出版集团，中信出版社 / 2019-07 / 精装",
+            "article": "本书是中央美术学院美术史教授郑岩父女默契合作的极简中国美术史。一页手绘水彩文物，一页镜头般优美的文"
+        },
+        {
+            "src": "./data/images/booksales2.jpg",
+            "price": "99",
+            "tit": "西洋镜：中国早期艺术史（套装全二册）",
+            "msg": "[瑞典]喜仁龙  著；赵省伟  编；陆香、郭雯熙、张同  译 / 广东人民出版社 / 2019-08 / 平装",
+            "article": "全书由《中国早期艺术史》和附录两部分组成。《中国早期艺术史》初版于1929年，是西方汉学界系统研究中"
+        },
+        {
+            "src": "./data/images/booksales3.jpg",
+            "price": "33",
+            "tit": "中央帝国的军事密码",
+            "msg": "郭建龙  著 / 鹭江出版社 / 2019-09 / 精装",
+            "article": "本书将中国从秦朝到清末的两千多年历史划分为五个军事战略演化时代，从地理角度出发，详细分析每一次中国古"
+        }
+    ],
+    "oldbook_chase": [
+        {
+            "src": "./data/images/oldb1.jpg",
+            "msg": "史记（精装本全六册）",
+            "price": "2850"
+        },
+        {
+            "src": "./data/images/oldb2.jpg",
+            "msg": "北京古籍丛书：日下旧闻考（精装全四册）",
+            "price": "500"
+        },
+        {
+            "src": "./data/images/oldb3.jpg",
+            "msg": "日知录集释(外七种）",
+            "price": "495"
+        },
+        {
+            "src": "./data/images/oldb5.jpg",
+            "msg": "金瓶梅词话 （线装两函全21册1988年第二版）",
+            "price": "6200"
+        },
+        {
+            "src": "./data/images/oldb6.jpg",
+            "msg": "结水浒全传5册全    古本小说集成",
+            "price": "600"
+        },
+        {
+            "src": "./data/images/oldb7.jpg",
+            "msg": "颖川家宝印集  颙园藏石印谱  林近题名  洪肇平作序  冒广生署签  陈融后跋  （孔网孤本）",
+            "price": "500"
+        },
+        {
+            "src": "./data/images/oldb8.jpg",
+            "msg": "8开精装画册 《赖少其画集》1983年1版1印",
+            "price": "650"
+        },
+        {
+            "src": "./data/images/oldb9.jpg",
+            "msg": "刘继卣画集(1991年天津人美初版、8开布面精装有书衣、带函套)见书影及描述",
+            "price": "550"
+        },
+        {
+            "src": "./data/images/oldb10.jpg",
+            "msg": "笺谱 硬精装",
+            "price": "1000"
+        },
+        {
+            "src": "./data/images/oldb11.jpg",
+            "msg": "敦煌书法库【第 一、二 .三.四辑全、16开精装本、原版一版一印、内页干净未阅、护封有磨损】",
+            "price": "500"
+        }
+    ],
+    "art": [
+        {
+            "src": "./data/images/art1.jpg",
+            "msg": "鲁迅全集1~10册全 1958年1版1959年2印 深红色（棕色）封面 精装带函套 品相好",
+            "price": "2888"
+        },
+        {
+            "src": "./data/images/art2.jpg",
+            "msg": "北京古籍丛书：日下旧闻考（精装全四册）",
+            "price": "500"
+        },
+        {
+            "src": "./data/images/art3.jpg",
+            "msg": "日知录集释(外七种）",
+            "price": "495"
+        },
+        {
+            "src": "./data/images/art4.jpg",
+            "msg": "金瓶梅词话 （线装两函全21册1988年第二版）",
+            "price": "6200"
+        },
+        {
+            "src": "./data/images/art6.jpg",
+            "msg": "结水浒全传5册全    古本小说集成",
+            "price": "800"
+        },
+        {
+            "src": "./data/images/art7.jpg",
+            "msg": "颖川家宝印集  颙园藏石印谱  林近题名  洪肇平作序  冒广生署签  陈融后跋  （孔网孤本）",
+            "price": "660"
+        },
+        {
+            "src": "./data/images/art8.jpg",
+            "msg": "8开精装画册 《赖少其画集》1983年1版1印",
+            "price": "650"
+        },
+        {
+            "src": "./data/images/art9.jpg",
+            "msg": "笺谱 硬精装",
+            "price": "1000"
+        },
+        {
+            "src": "./data/images/art10.jpg",
+            "msg": "刘继卣画集(1991年天津人美初版、8开布面精装有书衣、带函套)见书影及描述",
+            "price": "550"
+        },
+        {
+            "src": "./data/images/art11.jpg",
+            "msg": "敦煌书法库【第 一、二 .三.四辑全、16开精装本、原版一版一印、内页干净未阅、护封有磨损】",
+            "price": "500"
+        }
+    ],
+    "ancientbook": [
+        {
+            "src": "./data/images/ancient1.jpg",
+            "msg": "手抄《天文杂字》",
+            "price": "200"
+        },
+        {
+            "src": "./data/images/ancient2.jpg",
+            "msg": "d13x83清代杨璿丰富的临证阅历，对辨温病与伤寒之异，辨治温病与治伤寒之异，作了精辟的阐释著作《伤寒瘟疫条辩》1函4册民国广义书局机器纸石印",
+            "price": "650"
+        },
+        {
+            "src": "./data/images/ancient3.jpg",
+            "msg": "胡庆余堂雪记简明丸散全集，前面有照片",
+            "price": "880"
+        },
+        {
+            "src": "./data/images/ancient4.jpg",
+            "msg": "南北派十三套大曲琵琶新谱",
+            "price": "280"
+        },
+        {
+            "src": "./data/images/ancient5.jpg",
+            "msg": "镇冤塔  岳飞传续集  皮影戏剧本手稿 全7册  黑龙江皮影界“小梅兰芳”金传武手稿！",
+            "price": "2000"
+        },
+        {
+            "src": "./data/images/ancient7.jpg",
+            "msg": "忧喜丛稿（封面为作者墨书手迹）（复旦大学校长 夏敬观先生 藏书）",
+            "price": "600"
+        },
+        {
+            "src": "./data/images/ancient8.jpg",
+            "msg": "清末民国影印本《卫公碑集字》线装 一册（ 牌记页题签为光绪戊子年解锡桂题，封面封底及尾页有原藏者民国三年多处毛笔提拔）  HXTX106116",
+            "price": "600"
+        },
+        {
+            "src": "./data/images/ancient9.jpg",
+            "msg": "清末民国影印本《卫公碑集字》线装 一册（ 牌记页题签为光绪戊子年解锡桂题，封面封底及尾页有原藏者民国三年多处毛笔提拔）  HXTX106116",
+            "price": "300"
+        },
+        {
+            "src": "./data/images/ancient10.jpg",
+            "msg": "木板影刻·《清改琦红楼梦十二钗》（附木刻笺谱四十八帧）",
+            "price": "588"
+        },
+        {
+            "src": "./data/images/ancient11.jpg",
+            "msg": "清末藏文写本经书一部，梵夹装双面写本。书法漂亮！",
+            "price": "1580"
+        }
+    ],
+    "republic": [
+        {
+            "src": "./data/images/republic1.jpg",
+            "msg": "落叶 （新文学精品民国16年二版）",
+            "price": "1580"
+        },
+        {
+            "src": "./data/images/republic2.jpg",
+            "msg": "金陵古迹名胜影集",
+            "price": "1580"
+        },
+        {
+            "src": "./data/images/republic3.jpg",
+            "msg": "金陵古迹名胜影集",
+            "price": "1800"
+        },
+        {
+            "src": "./data/images/republic4.jpg",
+            "msg": "燕子山僧集 （新式标点）",
+            "price": "1580"
+        },
+        {
+            "src": "./data/images/republic5.jpg",
+            "msg": "万有文库 通志略（一~二十四）全二十四册 商务印书馆 民国二十二年石二月初版",
+            "price": "3500"
+        },
+        {
+            "src": "./data/images/republic6.jpg",
+            "msg": "钱穆 中国近三百年学术史 上下 商务印书馆1937年初版",
+            "price": "1600"
+        },
+        {
+            "src": "./data/images/republic7.jpg",
+            "msg": "康德二年 景印宋元明清丝绣精品 奉天国立博物馆 1935",
+            "price": "1500"
+        },
+        {
+            "src": "./data/images/republic8.jpg",
+            "msg": "苏曼殊全集【四册全】",
+            "price": "1200"
+        },
+        {
+            "src": "./data/images/republic9.jpg",
+            "msg": "《摛藻堂四库全书荟要》",
+            "price": "2680"
+        },
+        {
+            "src": "./data/images/republic10.jpg",
+            "msg": "陈元德《中国古代哲学史》（1937年版）",
+            "price": "380"
+        }
+    ],
+    "min": [
+        {
+            "src": "./data/images/min1.jpg",
+            "msg": "定海县志1-----6成套，书内品很好   里面地图很多张，品好，外涵套有破，",
+            "price": "3010",
+            "offer": "16"
+        },
+        {
+            "src": "./data/images/min2.jpg",
+            "msg": "空白册三本",
+            "price": "1060",
+            "offer": "155"
+        },
+        {
+            "src": "./data/images/min3.jpg",
+            "msg": "38cm*26.2cm开本;《王一亭 谭少云 名画合璧》(谭延闿题签前有康有为题字后有吴昌硕题字) 华商书局铜版精印 .民国十五年正月初版发行.",
+            "price": "365",
+            "offer": "2"
+        },
+        {
+            "src": "./data/images/min4.jpg",
+            "msg": "民国线装讲义《世界史讲义》《高三外国地理讲义》两个内容合订",
+            "price": "380",
+            "offer": "5"
+        },
+        {
+            "src": "./data/images/min6.jpg",
+            "msg": "好品《绣像三国志演义》全四册 共有精美插图384幅，上海商务印书馆1957年第一版",
+            "price": "180",
+            "offer": "1"
+        },
+        {
+            "src": "./data/images/min7.jpg",
+            "msg": "1元拍:民国三十七年欧阳缨著《本国分省精图》",
+            "price": "82",
+            "offer": "10"
+        },
+        {
+            "src": "./data/images/min9.jpg",
+            "msg": "词律1----4   成套1958年出版   私藏",
+            "price": "90",
+            "offer": "9"
+        },
+        {
+            "src": "./data/images/min10.jpg",
+            "msg": "中国医学大辞典  两册全",
+            "price": "109",
+            "offer": "55"
+        },
+        {
+            "src": "./data/images/min11.jpg",
+            "msg": "《红玫瑰》",
+            "price": "70",
+            "offer": "7"
+        },
+        {
+            "src": "./data/images/min12.jpg",
+            "msg": "钝吟集   民国三年印（全一本）",
+            "price": "70",
+            "offer": "7"
+        }
+    ],
+    "journal": [
+        {
+            "src": "./data/images/journal1.jpg",
+            "msg": "民国廿四年 中华杂志公司发行《新文学》创刊号一册（尺寸：26.5*18.5cm） HXTX141343",
+            "price": "570",
+            "offer": "37"
+        },
+        {
+            "src": "./data/images/journal2.jpg",
+            "msg": "1935年2月1日 上海图画书屋发行 孙玉声主编《俱乐部》第一期创刊号一册（田清泉绘封面、杭樨英绘封二，陈静生、郑光汉等人绘漫画插图，内收郑逸群、周瘦鹃、贺天健、孙雪泥、漱石生等人文章）HXTX141332",
+            "price": "410",
+            "offer": "10"
+        },
+        {
+            "src": "./data/images/journal3.jpg",
+            "msg": "1933年1月1日出版不忘杂志社编《不忘》期刊创刊号一册（有发刊词，及三中全会后政府之责任、国难期中我国教育上之统一职能、中国国防计划中的经济问题、国防建设之要点、苏俄对日外交之失败与中俄复交、日本侵略东北与国际公法之效力等重要内容）HXTX146227",
+            "price": "270",
+            "offer": "12"
+        },
+        {
+            "src": "./data/images/journal4.jpg",
+            "msg": "宣统元年《顺天时报悬赠徵文---时务三策》153页一册全",
+            "price": "1000",
+            "offer": "1"
+        },
+        {
+            "src": "./data/images/journal5.jpg",
+            "msg": "近代著名教育家、“五四运动”学生领袖和命名者、原清华大学校长 罗家伦 签赠本 1938年2月23日国立中央大学新民族编辑部编印《新民族》周刊创刊号平装一册（收有新民族的前奏曲、建立新的人生观、抗第无畏论、日本战时财政鸟瞰、建设的新认识、流亡等文章）HXTX146226",
+            "price": "180",
+            "offer": "230"
+        },
+        {
+            "src": "./data/images/journal6.jpg",
+            "msg": "1945年-1946年 新群众社编 冀晋文联编《新群众》期刊存第一卷第一期至第六期、第二卷第一期至第六期、第二卷第一期  共十三册 HXTX146229",
+            "price": "230",
+            "offer": "10"
+        },
+        {
+            "src": "./data/images/journal7.jpg",
+            "msg": "清末宣统三年 有正书局发行、妇女时报社编辑《妇女时报》第一号一册（是清末女权解放时期的重要史料） HXTX141337",
+            "price": "190",
+            "offer": "15"
+        },
+        {
+            "src": "./data/images/journal8.jpg",
+            "msg": "民国三十六年 中华全国文艺协会编印《中国作家》创刊号一册（尺寸：24.5*17.5cm） HXTX141340",
+            "price": "190",
+            "offer": "15"
+        },
+        {
+            "src": "./data/images/journal9.jpg",
+            "msg": "民国廿三年 良友图书发行《人间世》第一期一册（封面有签名） HXTX141335",
+            "price": "180",
+            "offer": "14"
+        },
+        {
+            "src": "./data/images/journal10.jpg",
+            "msg": "民国廿四年 上海春光书店发行《小文章》创刊号一册（尺寸：25.5*19cm） HXTX141342",
+            "price": "170",
+            "offer": "13"
+        }
+    ],
+    "art_book": [
+        {
+            "src": "./data/images/art_1.jpg",
+            "msg": "著名昆剧表演艺术家、原上海京剧院院长 俞振飞 1983年 致王-济-生信札 一通一页 带实寄封 （提及请王向党委同志汇报，解决团员刘-令-贵的生活问题等事宜） HXTX146691",
+            "price": "340",
+            "offer": "13"
+        },
+        {
+            "src": "./data/images/art_2.jpg",
+            "msg": "王仲荦  信札  924K34",
+            "price": "500",
+            "offer": "19"
+        },
+        {
+            "src": "./data/images/art_3.jpg",
+            "msg": "黄裳   信札1页   VHH18",
+            "price": "190",
+            "offer": "15"
+        },
+        {
+            "src": "./data/images/art_4.jpg",
+            "msg": "章-汝奭旧藏：当代著名书法家、原上海书协副主席 赵冷月 1984年致章-士-奭 毛笔信札一通一页 附实寄封（关于《老人杂志》欲刊登其作品照片，家中无适合之照请章到其家中时带来原留存章处作品照片之事；少见！）HXTX145909",
+            "price": "1160",
+            "offer": "46"
+        },
+        {
+            "src": "./data/images/art_5.jpg",
+            "msg": "古典明式黄花梨镶贝明素小柜 降香黄檀木螺钿荷花鸳鸯图+梅兰竹菊图 手感细腻光滑温润如玉 牛毛纹理细密清晰 山水花纹行云流水 鬼脸鬼眼纹柔和清雅 虎皮豹纹斑驳迷人 百年好合 和谐美满 富贵吉祥 长52厘米 宽30厘米 高72厘米（梅兰+竹菊 明素小柜一对 此小柜是梅兰在售---竹菊小柜另售）",
+            "price": "3698",
+            "offer": "2699"
+        },
+        {
+            "src": "./data/images/art_6.jpg",
+            "msg": "李瑞清弟子、张大千二哥、画虎大师 张善子 毛笔签赠本《张善子画四杰图》 八开平装一册 （民国庚午年（1930）太平洋艺术社发行，国画大师黄宾虹题写封面书名，内收珂罗版影印水墨画12帧，是研究张氏绘画风格的珍贵实料） HXTX146683",
+            "price": "3680",
+            "offer": "97"
+        },
+        {
+            "src": "./data/images/art_7.jpg",
+            "msg": "欧洲回流清 乾隆霁红釉花鸟瓶       直径20厘米，高44厘米",
+            "price": "2980",
+            "offer": "199"
+        },
+        {
+            "src": "./data/images/art_8.jpg",
+            "msg": "【津门画坛领袖 陈少梅 松山飞泉图 立轴】 “湖社画会”之骨干 名云彰 曾任天津美协主席 原装原裱 精品",
+            "price": "2200",
+            "offer": "211"
+        },
+        {
+            "src": "./data/images/art_9.jpg",
+            "msg": "珍藏古典明式黄花梨木镂空精雕 浮雕云龙纹小柜家具 牛毛纹理细密清晰 山水花纹行云流水 鬼脸鬼眼纹柔和清雅 虎皮豹纹斑驳迷人 长38.5厘米 宽23.5厘米 高60.5厘米",
+            "price": "2582",
+            "offer": "1583"
+        },
+        {
+            "src": "./data/images/art_10.jpg",
+            "msg": "【王雪涛】北京画院院长。中国美术家协会理事，美协北京分会副主席。手绘",
+            "price": "1578",
+            "offer": "1578"
+        }
+    ],
+    "foryou": [
+        {
+            "src": "./data/images/foryou1.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou2.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou3.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou4.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou5.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou6.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou7.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou8.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou9.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou10.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        }
+        ,{
+            "src": "./data/images/foryou11.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou12.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou13.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou14.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou15.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou17.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou18.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou19.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou20.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        },
+        {
+            "src": "./data/images/foryou22.jpg",
+            "msg": "胆小鬼侦探（长篇小说）",
+            "phase": "九五品",
+            "address": "北京",
+            "price": "11.7"
+        }
+
+    ]
+
+}

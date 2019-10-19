@@ -148,7 +148,7 @@
           <p>书友_0923_865705</p>
         </li>
         <li>
-          <p>退出</p>
+         <router-link to="/login"><p>退出</p></router-link>
         </li>
         <li>
           <p>客服留言</p>
@@ -286,6 +286,9 @@ header{
   width: 20%;
   text-align: center;
   line-height: 26px;
+  color: #999;
+}
+.panel_ul ul li a{
   color: #999;
 }
 .panel_uls ul li{

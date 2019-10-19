@@ -255,21 +255,6 @@ export default{
         color:#9e100e;
         font-weight: 700;
     }
-    /* .search_input{
-        height: 35px;
-        line-height: 35px;
-        border: 1px solid #9e100e;
-        margin: 10px 0;
-    }
-    .clear{
-        clear: both;
-    }
-    .search_input .l{
-        float: left;
-        font-size: 0.78rem;
-        margin-left: 10px;
-        position: relative;
-    } */
     ._trg{
         border: 5px solid transparent;
         border-top: 5px solid #333;
@@ -279,36 +264,12 @@ export default{
         position: relative;
         top: 3px;
     }
-    /* .search_input .m{
-        float: left;
 
-    }
-    .search_input input{
-        width: 110% ;
-        border: none;
-        outline: none;
-        padding-left: 10px;
-        color: #999;
-        position: relative;
-        top: -3px;
-    }
-    .search_input .r{
-        float: right;
-        background: #9e100e;
-        width: 13%;
-    }
-    .search_input .r i{
-       font-size: 1.3rem;
-       color: #fff;
-       text-align: center;
-       margin-left: 20%;
-    } */
     .sign{
         width: 200%;
         position: absolute;
         top: 42px;
         left: -10px;
-        /* display: none; */
         z-index: 1;
     }
     .sign ul{

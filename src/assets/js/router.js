@@ -11,6 +11,9 @@ import artDetails from '../../component/artDetails.vue'
 import catDetails from '../../component/catDetails.vue'
 import shopCat from '../../component/shopCat.vue'
 import my from '../../component/my.vue'
+import login from '../../component/login.vue'
+import SMS from '../../component/SMS.vue'
+import sign from '../../component/sign.vue'
 export default new VueRouter({
     routes: [
         {
@@ -63,6 +66,18 @@ export default new VueRouter({
         {
           path: '/my',
           component: my
+        },
+        {
+            path: "/login",
+            component: login
+        },
+        {
+            path: "/SMS",
+            component: SMS
+        },
+        {
+            path: '/sign',
+            component: sign
         }
     ]
 })

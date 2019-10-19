@@ -7,25 +7,25 @@
                     <p>首页</p>
                 </router-link>
             </li>
-                <li>
+            <li>
                 <router-link to="/bookstore">
                     <i class="iconfont icon-shuqian"></i>
                     <p>书店</p>
                 </router-link>
             </li>
-                <li>
+            <li>
                 <router-link to="buy">
                     <i class="iconfont icon-paimai1"></i>
                     <p>拍卖</p>
                 </router-link>
             </li>
-                <li>
+            <li>
                 <router-link to="/shopCat">
                     <i class="iconfont icon-qicheqianlian--copy"></i>
                     <p>购物车</p>
                 </router-link>
             </li>
-                <li>
+            <li>
                 <router-link to="my">
                     <i class="iconfont icon-wo"></i>
                     <p>我的</p>

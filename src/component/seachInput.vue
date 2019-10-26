@@ -100,7 +100,7 @@
 
     }
     .search_input input{
-        width: 110% ;
+        width: 97%;
         border: none;
         outline: none;
         padding-left: 10px;

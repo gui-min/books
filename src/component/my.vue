@@ -196,6 +196,7 @@ header{
 .h-l{
     float: left;
     font-size: 0.9rem;
+    width: 10%;
 }
 .my-icon,.dian-icon{
     font-size: 22px;
@@ -206,11 +207,11 @@ header{
     font-size: 0.9rem;
     font-weight: 700;
     text-align: center;
-    width: 85%;
+    width: 80%;
 }
 .h-r{
     float: right;
-    /* position: relative; */
+    width: 10%;
 }
 .banner{
   background: url(../assets/images/my1.jpg) no-repeat;
@@ -229,34 +230,40 @@ header{
 }
 .b-left{
   overflow: hidden;
+  float: left;
+  width: 70%;
 }
 .b-left img{
   width: 60px;
 }
-.b-left,
+
 .imgbox,
 .panel-l{
   float: left
 }
 .b-right{
   margin-top: 5px;
+  width: 25%;
+}
+.imgbox{
+  width: 32%;
 }
 .b-right,
-.text,
 .panel-r{
   float: right;
 }
 .panel-rr{
   color: #999;
 }
-.text{
-  margin-top: 5px;
-  margin-left: 10px;
-}
+
 .text{
   line-height: 26px;
   color: rgba(255,255,255,0.6);
   white-space: nowrap;
+  margin-top: 5px;
+  padding-left: 10px;
+  width: 63%;
+  float: right;
 }
 .text .p1{
   font-size: 0.88rem;
